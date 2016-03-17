@@ -9,6 +9,11 @@ h1 {
 	font-weight: normal !important;
 }
 
+/* Code in comments/ description */
+code {
+	background-color: #000;
+}
+
 /* Source code */
 .diffract pre,
 .udiff-line .source {
