@@ -1,4 +1,14 @@
 @-moz-document domain("bitbucket.org") {
+/* Main page font */
+body {
+	font-family: "Helvetica Neue" !important;
+}
+
+h1 {
+	font-family: "Helvetica Neue" !important;
+	font-weight: normal !important;
+}
+
 /* Source code */
 .diffract pre,
 .udiff-line .source {
