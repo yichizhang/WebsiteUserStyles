@@ -5,7 +5,8 @@ body {
 	background-color: #222 !important;
 }
 
-h1 {
+h1,
+a.author{
 	font-family: "Helvetica Neue" !important;
 	font-weight: normal !important;
 }
@@ -13,6 +14,12 @@ h1 {
 /* Code in comments/ description */
 code {
 	background-color: #000;
+}
+
+#pullrequest-diff a.commit-files-summary--filename,
+h1.filename{
+	/* !important is necessary for `h1 .filename` */
+	font-family: "Hasklig",Consolas,Menlo,"Liberation Mono",Courier,monospace !important;
 }
 
 /* Source code */
