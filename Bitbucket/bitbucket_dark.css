@@ -127,6 +127,7 @@
 .diff-container .refract-container,
 section h1 {
 	border-color: #444 !important;
+	background-color: #222 !important;
 }
 
 /* Main page area */
