@@ -196,6 +196,15 @@ a {
 	border-bottom: 1px solid #222 !important;
 }
 
+/* Files changed */
+span.lines-added {
+	background-color: #030 !important;
+}
+
+span.lines-removed {
+	background-color: #300 !important;
+}
+
 /* Buttons */
 .aui-button,
 .aui-button a,
