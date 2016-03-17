@@ -25,14 +25,14 @@
 /* Added/changed code */
 .diffract ins,
 .refract-container .addition pre.source {
-	background-color: #222822 !important;
-	border-color: #222822;
+	background-color: #030 !important;
+	border-color: #030;
 }
 
 /* Added/changed code highlight */    
 .refract-container .addition pre.source ins {
-	border-color: #344134 !important; 
-	background-color: #344134 !important; 
+	background-color: #070 !important; 
+	border-color: #070 !important; 
 }
 
 /* Deleted and added/changed code */
@@ -47,14 +47,14 @@
 /* Deleted code */
 .diffract del,
 .refract-container .deletion pre.source {
-	background-color: #2F1818 !important;
-	border-color: #2F1818;
+	background-color: #300 !important;
+	border-color: #300;
 }
 
 /* Deleted code highlight */
 .refract-container .deletion pre.source del {
-	background-color: #4A1A1A !important;
-	background-color: #4A1A1A !important; 
+	background-color: #700 !important;
+	border-color: #700 !important; 
 }
 
 /* Diff block start */
