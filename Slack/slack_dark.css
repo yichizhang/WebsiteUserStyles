@@ -158,7 +158,7 @@
   #message-input.offline { background-color: #363636 !important; }
   #message-input.disabled { background-color: #363636; }
   #message-input-message { color: #949494; }
-  #message_edit_form #message-input, #messages-input-container #message-input { background: padding-box #545454; border: 2px solid #363636; color: #e6e6e6; }
+  #message_edit_form #message-input, #messages-input-container #message-input { background: padding-box #545454; border: 2px solid #363636; color: #e6e6e6; font-family: "Helvetica" !important; }
   #message_edit_form #message-input:focus, #messages-input-container #message-input:focus { border-color: #000; }
   #message_edit_form .emo_menu, #messages-input-container .emo_menu { color: rgba(230, 230, 230, 0.3); }
   #message_edit_form .emo_menu.active .ts_icon_happy_smile, #message_edit_form .emo_menu:hover .ts_icon_happy_smile, #messages-input-container .emo_menu.active .ts_icon_happy_smile, #messages-input-container .emo_menu:hover .ts_icon_happy_smile { color: #828282; }
